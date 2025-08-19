@@ -10,6 +10,7 @@ namespace S1_F.D.A
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Mi primera carga en GitHub JIJIJI");
         }
     }
 }
